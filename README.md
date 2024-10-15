@@ -1,2 +1,2 @@
 # DemoRepository
-This is my first Git Repository
+This repostory contains HTML code for a table which contains countries and their capital names.
